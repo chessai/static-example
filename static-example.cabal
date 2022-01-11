@@ -5,4 +5,4 @@ version: 0.1
 executable static-example
   hs-source-dirs: .
   main-is: Main.hs
-  build-depends: base, file-embed-lzma
+  build-depends: base, bytestring, file-embed-lzma, text, zlib
