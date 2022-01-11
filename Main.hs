@@ -7,4 +7,4 @@ import FileEmbedLzma
 foo = $(embedText "foo.txt")
 
 main :: IO ()
-main = putStrLn foo
+main = print foo
