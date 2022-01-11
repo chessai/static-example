@@ -1,0 +1,8 @@
+index-state: 2022-01-05T00:00:00Z
+
+packages: .
+
+tests: true
+test-show-details: direct
+
+write-ghc-environment-files: never

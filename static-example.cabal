@@ -1,0 +1,8 @@
+cabal-version: 3.0
+name: static-example
+version: 0.1
+
+executable static-example
+  hs-source-dirs: .
+  main-is: Main.hs
+  build-depends: base, file-embed-lzma
